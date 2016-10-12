@@ -8,6 +8,7 @@ public enum Builder {
     public String toString() {
 
         switch(this) {
+
             case FENDER:   return "Fender";
             case MARTIN:   return "Martin";
             case GIBSON:   return "Gibson";
